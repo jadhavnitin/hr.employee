@@ -1,0 +1,12 @@
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\bin\Debug\net6.0\hr.employee.Model.deps.json
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\bin\Debug\net6.0\hr.employee.Model.dll
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\bin\Debug\net6.0\hr.employee.Model.pdb
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.csproj.AssemblyReference.cache
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.AssemblyInfoInputs.cache
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.AssemblyInfo.cs
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.csproj.CoreCompileInputs.cache
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.dll
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\refint\hr.employee.Model.dll
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\hr.employee.Model.pdb
+C:\Project-Nitin\Hr.Employee\hr.employee.main\hr.employee.Model\obj\Debug\net6.0\ref\hr.employee.Model.dll
