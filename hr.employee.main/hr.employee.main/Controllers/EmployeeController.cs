@@ -3,6 +3,7 @@ using hr.employee.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace hr.employee.main.Controllers
 {
     [Route("api/[controller]")]
@@ -23,6 +24,15 @@ namespace hr.employee.main.Controllers
            // return Ok(new Employee { Id= 101, Name="Nitin Jadhav", Designation="Software Developer", City="Satara", Age=27, Salary=30000 } );
         }
 
+        [HttpPost]
+        [Route("employee/add")]
+        public IActionResult AddEmployee(Employee employee)
+        {
+            employeeDbContext.Employee.Add(employee);
+            employeeDbContext.SaveChanges();
+            return Ok();
+
+        }
 
     }
 }

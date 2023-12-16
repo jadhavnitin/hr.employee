@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\hr.employee.main",
+    "\\hr.employee.main\\hr.employee.main",
+    "\\hr.employee.main\\hr.employee.main\\Controllers",
+    "\\hr.employee.main\\hr.employee.main\\Data",
+    "\\hr.employee.main\\hr.employee.main\\Properties",
+    "\\hr.employee.main\\hr.employee.Model"
   ],
-  "SelectedNode": "\\C:\\Project-Nitin\\Hr.Employee",
+  "SelectedNode": "\\hr.employee.main\\hr.employee.main\\Controllers\\EmployeeController.cs",
   "PreviewInSolutionExplorer": false
 }
